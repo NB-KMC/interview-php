@@ -80,16 +80,7 @@ protected function newGetCode($storehouse, $info, $config)
 }
 
 
-/**
- * 最引以为傲的一段代码（如有必要请说明代码实现了什么功能）
- */
-
-
-/**
- * 经常浏览的技术网站，以及最近学习到的新知识
- */
-
 
 ```
 
-> 作答结果请保存至 gist ，然后将其网址评论至本仓库的名为 gist 的 issue 下，最后记得将 github 用户名告知 HR 或面试官
+> 作答结果请发给 HR 
